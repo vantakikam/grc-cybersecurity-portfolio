@@ -1,8 +1,23 @@
 # GRC Cybersecurity Portfolio
-### Vicky Anta | Governance, Risk & Compliance
+### Vicky Anta | Governance, Risk & Compliance | Healthcare IT Security
 
 This portfolio demonstrates hands-on GRC skills through real-world projects 
-built to industry standards including NIST CSF, ISO 27001, and SOC 2.
+built to industry standards including NIST CSF, ISO 27001, HIPAA, and SOC 2.
+
+---
+
+## Healthcare IT Background
+With hands-on experience implementing and training Epic EHR systems, I bring 
+a unique clinical workflow perspective to GRC and compliance work.
+
+**Epic Modules:** ClinDoc | Optime | CPOE | Ambulatory
+
+**Clinical Knowledge:**
+- Patient health information (PHI) workflows across inpatient and outpatient settings
+- Clinical documentation processes and access control requirements
+- Surgical and OR system environments (Optime)
+- Computerized physician order entry and medication safety workflows (CPOE)
+- Go-live implementation and end-user training across hospital environments
 
 ---
 
@@ -10,26 +25,7 @@ built to industry standards including NIST CSF, ISO 27001, and SOC 2.
 
 | Project | Framework | Status |
 |---|---|---|
-| Risk Register | NIST CSF 2.0 | 🔄 In Progress |
-| Information Security Policy | ISO 27001 | 🔄 Coming Soon |
+| Risk Register — MedCore Clinic | NIST CSF 2.0 / HIPAA | ✅ Complete |
+| Information Security Policy — MedCore Clinic | NIST CSF 2.0 / HIPAA / ISO 27001 | ✅ Complete |
 | NIST CSF Gap Analysis | NIST CSF 2.0 | 🔄 Coming Soon |
-| Vulnerability Assessment Report | NIST SP 800-53 | 🔄 Coming Soon |
-| Incident Response Plan | NIST SP 800-61 | 🔄 Coming Soon |
-
----
-
-## Tools & Skills
-- Risk assessment and management
-- Security policy development
-- Compliance framework mapping (NIST, ISO 27001, SOC 2)
-- Vulnerability scanning (Nessus Essentials)
-- Virtual environments: Kali Linux, Ubuntu, Windows Server
-
----
-
-## Certifications (In Progress)
-- ISC2 Certified in Cybersecurity (CC)
-
----
-
-*This portfolio is actively being built. Check back for new projects.*
+| Internal Control Testing
